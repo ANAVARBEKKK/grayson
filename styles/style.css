@@ -11,6 +11,7 @@
 ::-webkit-scrollbar-thumb{
   background: #41a28e;
   border-radius: 10px;
+  color: #fff;
 }
 a {
   text-decoration: none;
